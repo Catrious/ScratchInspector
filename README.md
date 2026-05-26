@@ -6,7 +6,7 @@ The regular version is easy to download and on the GitHub page <br>
 The Platformed version requires special access <br>
 Regular platforms: <br>
 Windows 8.1 or newer <br>
-macOS 14 or newer <br>
+macOS <br>
 Linux <br>
  <br>
 Platformed platforms: <br>
