@@ -2,7 +2,7 @@
 Inspects SB2/SB3 projects and outputs sprites, costumes and scripts (amount of) <br>
 There are 2 versions, regular and platformed <br>
 Regular platforms: <br>
-Windows 7 or newer <br>
+Windows 8.1 or newer <br>
 macOS 14 or newer <br>
 Linux <br>
  <br>
