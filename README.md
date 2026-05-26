@@ -1,2 +1,11 @@
 # ScratchInspector
-Inspects SB2/SB3 projects and outputs sprites, costumes and scripts (amount of)
+Inspects SB2/SB3 projects and outputs sprites, costumes and scripts (amount of) <br>
+There are 2 versions, regular and platformed <br>
+Regular platforms: <br>
+Windows 7 or newer <br>
+macOS 14 or newer <br>
+Linux <br>
+ <br>
+Platformed platforms: <br>
+ChromeOS <br>
+Android 9.0 or newer <br>
